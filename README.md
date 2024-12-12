@@ -1,9 +1,14 @@
 # Disease Recognition: Alzheimer's Disease Detection Project
 
 ## Overview
-This project implements a hybrid model combining **ResNet50** and **DenseBlocks** to enhance feature extraction and improve the accuracy of Alzheimer's Disease detection. The system uses transfer learning, advanced architectural integrations, and optimized training techniques to achieve high performance on MRI-based datasets.
+This project implements a hybrid model combining **ResNet50** and **DenseBlocks** to enhance feature extraction and improve the accuracy of Alzheimer's Disease detection. The system uses transfer learning, advanced architectural integrations, and optimized training techniques to achieve high performance on MRI-based datasets. We are inspired by Shah, A.A., Malik, H.A.M., Muhammad, A. et al. Deep learning ensemble 2D CNN approach towards the detection of lung cancer. Sci Rep 13, 2987 (2023).(https://doi.org/10.1038/s41598-023-29656-z) to use a combined model to improve the performane of the CNN.
+Here's a reference of their architecture:
+
+
+<img width="615" alt="19821734040478_ pic" src="https://github.com/user-attachments/assets/776ebac7-98fa-4a8c-96eb-a638467f9849" />
 
 ## Repository Structure
+
 - **`DS301_Project.ipynb`**: Contains all code for data preprocessing, model implementation, training, evaluation, and visualization.
 - **Dataset**: The dataset can be downloaded from [this link](https://drive.google.com/uc?id=10-b4PKd6UUTkZU3SdOn_hbgZHU8CUjT_&confirm=t&uuid=a3d8c59d-edfe-4d49-96a3-2a9246d0a4cc), which references the Kaggle source [Dataset-Alzheimer](https://www.kaggle.com/datasets/yasserhessein/dataset-alzheimer).
 
