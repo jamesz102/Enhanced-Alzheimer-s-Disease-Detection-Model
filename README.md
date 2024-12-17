@@ -43,7 +43,7 @@ The dataset required for this project is automatically downloaded as part of the
 ## Results
   - Base ResNet50 Model: Accuracy = 0.45
   - Transfer Learning with Health Dataset: Accuracy = 0.71
-  - Hybrid Model (ResNet50 + DenseBlocks): Accuracy = 0.75
+  - Combined Model (ResNet50 + DenseBlocks): Accuracy = 0.75
 
 ## Contributors
   - Yakun Du: yd2023@nyu.edu
