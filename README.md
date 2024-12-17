@@ -41,8 +41,8 @@ The dataset required for this project is automatically downloaded as part of the
 3. Run all cells in the notebook to preprocess the data, train the model, and visualize the results.
 
 ## Results
-  - Base ResNet50 Model: Accuracy = 0.45
-  - Transfer Learning with Health Dataset: Accuracy = 0.71
+  - Initial Model: Accuracy = 0.45
+  - Transfer Learning Model: Accuracy = 0.71
   - Combined Model (ResNet50 + DenseBlocks): Accuracy = 0.75
 
 ## Contributors
