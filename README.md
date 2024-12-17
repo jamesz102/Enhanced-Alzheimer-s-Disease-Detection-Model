@@ -47,6 +47,7 @@ The dataset required for this project is automatically downloaded as part of the
 
 ## Contributors
   - Yakun Du: yd2023@nyu.edu
+  - Langyue Zhao: lz2387@nyu.edu
   - Zihan Zhou: zz4029@nyu.edu
 
 ## Acknowledgments
