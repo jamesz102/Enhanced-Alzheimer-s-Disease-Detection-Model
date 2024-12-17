@@ -18,7 +18,6 @@ Here's a reference of their architecture:
    - Transition blocks compress features using 1x1 convolutions and average pooling.
 
 2. **Optimized Training Techniques**:
-   - **Mixed precision training** for efficient GPU memory utilization.
    - **Cosine annealing scheduler** for learning rate adjustment.
    - **AdamW optimizer** with weight decay (0.01) for stable convergence.
    - **Dropout (0.2)** to prevent overfitting.
